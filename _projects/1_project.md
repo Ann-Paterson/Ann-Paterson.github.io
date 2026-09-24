@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Characterising the behaviour of GMRES for block tridiagonal Toeplitz matrices
 description: with background image
 img: assets/img/12.jpg
 importance: 1
