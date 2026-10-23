@@ -1,0 +1,6 @@
+.socials {
+  display: flex !important;
+  justify-content: flex-start !important;
+  text-align: left !important;
+  gap: 10px;
+}
